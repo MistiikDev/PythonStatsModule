@@ -11,7 +11,7 @@ Module handles some of these functions :
 
 Mean Handling: 
 
-![equation](https://latex.codecogs.com/gif.image?%5Chuge%20%5Cdpi%7B110%7D%5Cbg%7Bblack%7D%5Cchi=%20%5Cfrac%7B%5Csum%20x%20%7D%7B%5Ceta%20%7D%20)
+![equation](https://latex.codecogs.com/gif.image?%5Chuge%20%5Cdpi%7B110%7D%5Cbg%7Bblack%7D%5Coverline%7Bx%7D=%5Cfrac%7B%5Csum%20x%7D%7Bn%7D)
 
 Variance Handling:
 
