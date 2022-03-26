@@ -18,7 +18,7 @@ class Variance():
     def __init__(self) -> None:
         pass 
     def get(self, a: dict) -> int:
-        mean = Moyenne()
+        mean = Mean()
 
         var = 0
         total = 0
